@@ -6,9 +6,14 @@ An interactive web-based visualization of a cubic Bézier curve with a unique "w
 
 This project implements a cubic Bézier curve from scratch, including all mathematical computations and a spring physics system. The curve features a distinctive behavior: when you drag and release a control point, it wobbles/shivers for exactly 1 second before settling at the drop position.
 
+Video Demo - https://github.com/user-attachments/assets/5669b729-ed8a-48e7-82c8-386525ccabc2
+
 ## Mathematical Foundation
 
 ### Cubic Bézier Curve
+
+
+
 
 A cubic Bézier curve is defined by four control points (P₀, P₁, P₂, P₃) and parameterized by `t ∈ [0, 1]`:
 
